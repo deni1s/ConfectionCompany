@@ -1,0 +1,63 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.AuthForm.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MainForm.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ConfectionsForm.resources
+C:\Users\Ольга\Desktop\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe.config
+C:\Users\Ольга\Desktop\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.exe
+C:\Users\Ольга\Desktop\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.pdb
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe.config
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.exe
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.pdb
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.pdb
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.AuthForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.CompositionForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ConfectionsForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MainForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MoneyForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.OrdersForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ProductsForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.Properties.Resources.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.WarehouseForm.resources
+C:\Users\1\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe.config
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.exe
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.pdb
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.pdb
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.AuthForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.CompositionForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ConfectionsForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MainForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MoneyForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.OrdersForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ProductsForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.Properties.Resources.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.WarehouseForm.resources
+C:\Users\Владимир\Desktop\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe.config
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.exe
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.pdb
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.exe
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\bin\Debug\СonfectioneryСompany.pdb
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.AuthForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.CompositionForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ConfectionsForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MainForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.MoneyForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.OrdersForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.ProductsForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.Properties.Resources.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.WarehouseForm.resources
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\БСБД КУРСОВАЯ\СonfectioneryСompany\СonfectioneryСompany\СonfectioneryСompany\obj\Debug\СonfectioneryСompany.OrdersByPeriod.resources
